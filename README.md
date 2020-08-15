@@ -4,7 +4,7 @@ Windows 8/8.1 cleanup
 
 ### Implemented
 1. Fonts disabling
-  Cannot delete, but registry can be cleaned, so unused fonts not load
+Cannot delete, but registry can be cleaned, so unused fonts not load
 
 ### Not implemented
 2. Replace fat Windows system directories by Junk links to slow / cheap HDD folders
